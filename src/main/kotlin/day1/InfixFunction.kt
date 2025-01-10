@@ -1,4 +1,4 @@
-// 중위함수 연습
+package day1// 중위함수 연습
 
 class InfixFunctionPrac {
 

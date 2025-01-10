@@ -1,4 +1,4 @@
-// when 연습
+package day1// when 연습
 // when은 반환값이 남지 않는 명령문(statement) 방식이나, 반환값을 반환하는 표현식(expression) 형태로 사용 가능
 
 // statement는 when절 내에 else가 없어도 된다.

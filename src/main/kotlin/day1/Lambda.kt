@@ -1,4 +1,4 @@
-// 람다 함수 연습
+package day1// 람다 함수 연습
 
 val upperCase1: (String) -> String = { str: String -> str.uppercase() }
 val upperCase2: (String) -> String = {str -> str.uppercase()} // str의 자료형을 선언하지 않아도 됨.(타입추론)

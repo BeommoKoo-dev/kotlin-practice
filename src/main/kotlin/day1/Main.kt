@@ -1,3 +1,5 @@
+package day1
+
 fun printMessage(message: String): Unit {
     println(message)
 }

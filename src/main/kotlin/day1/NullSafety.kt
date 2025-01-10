@@ -1,3 +1,5 @@
+package day1
+
 // Null-safety 연습
 fun main() {
     var neverNull: String = "이 변수는 null이 될 수 없습니다."

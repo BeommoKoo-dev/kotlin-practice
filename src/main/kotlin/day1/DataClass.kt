@@ -1,4 +1,4 @@
-// 데이터 클래스 연습
+package day1// 데이터 클래스 연습
 
 // 데이터 클래스는 평범한 값들은 보관하는 용도의 클래스를 쉽게 만드는데 사용. java의 record와 비슷
 // copy(), toString(), eqauls & hascode 등을 자동으로 구현

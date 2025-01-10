@@ -1,4 +1,4 @@
-// 반복문 연습(for, do-while)
+package day1// 반복문 연습(for, do-while)
 
 fun main() {
     val cakes = listOf("당근", "치즈", "초콜릿")

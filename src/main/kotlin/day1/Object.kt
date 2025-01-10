@@ -1,3 +1,5 @@
+package day1
+
 import kotlin.random.Random
 
 // 오브젝트 연습

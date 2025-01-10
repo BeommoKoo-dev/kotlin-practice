@@ -1,3 +1,5 @@
+package day1
+
 // 상속 연습
 open class Dog { // 코틀린에서 기본적으로 상속이 x(기본적으로 final class) -> 상속을 허용하기 위해서는 open 키워드를 붙여줌.
     open fun sayHello() {
