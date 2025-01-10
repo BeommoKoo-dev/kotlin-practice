@@ -1,4 +1,4 @@
-// Sealed class 연습
+package day1// Sealed class 연습
 
 // 클래스 상속을 특정 범위로 제한 가능
 // 같은 패키지 안에서만 상속 가능

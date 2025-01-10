@@ -1,4 +1,4 @@
-// 범위 연습
+package day1// 범위 연습
 
 fun main() {
     for (i in 0..3) {

@@ -1,3 +1,5 @@
+package day1
+
 // 변수 연습
 fun main() {
     var a: String = "처음값" // var는 mutable.

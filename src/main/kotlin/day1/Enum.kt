@@ -1,4 +1,4 @@
-// Enum 연습
+package day1// Enum 연습
 
 enum class State {
     IDLE, RUNNING, FINISHED

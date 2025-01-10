@@ -1,4 +1,4 @@
-// 함수 연습
+package day1// 함수 연습
 
 class FunctionPrac {
 

@@ -1,3 +1,5 @@
+package day1
+
 // 연산자 함수 연습
 fun main() {
     fun printAll(vararg messages: String) {

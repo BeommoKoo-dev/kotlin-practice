@@ -1,4 +1,4 @@
-// 동반 오브젝트
+package day1// 동반 오브젝트
 
 class BigBen {
     companion object Bonger {

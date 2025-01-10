@@ -1,3 +1,5 @@
+package day1
+
 // 코틀린 클래스 연습
 class Customer // 본문이 없는 클래스의 경우, 중괄호 생략
 
@@ -9,6 +11,6 @@ fun main() {
     val contact = Contact(1, "mary@gmail.com")
 
     println(contact.id)
-    contact.email = "jane@gmail.com" // Contact 클래스의 email필드는 var이므로, mutable
+    contact.email = "jane@gmail.com" // day1.Contact 클래스의 email필드는 var이므로, mutable
     println(contact.email)
 }

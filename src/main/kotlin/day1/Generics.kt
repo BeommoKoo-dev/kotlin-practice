@@ -1,4 +1,4 @@
-// 제네릭 연습
+package day1// 제네릭 연습
 
 class MutableStack<E>(vararg items: E) {
 
